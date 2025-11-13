@@ -11,4 +11,3 @@ python -m venv .venv
 pip install -e .
 pytest
 python -m python_template
-```
