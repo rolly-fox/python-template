@@ -1,5 +1,7 @@
 # python-template
 
+![CI](https://github.com/rolly-fox/python-template/actions/workflows/ci.yml/badge.svg)
+
 Clean, reusable Python starter that plays nice with Cursor.
 
 ## Quickstart
