@@ -4,10 +4,6 @@
 
 A clean, reusable Python starter built with Cursor, Git, and GitHub Actions.  
 It includes testing, linting, formatting, pre-commit hooks, and CI automation — everything you need to start a modern Python project on the right foot.
----
-
-## 🪪 License
-This project is licensed under the [MIT License](./LICENSE). You’re free to use it in personal or commercial projects.
 
 ## Quickstart
 ```bash
@@ -16,4 +12,3 @@ python -m venv .venv
 pip install -e .
 pytest
 python -m python_template
-
